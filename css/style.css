@@ -661,7 +661,7 @@ img {
 .footer-form-btn::after {
   content: "";
   margin-left: 10px;
-  background-image: url(../images/icon\send\\(1\).svg);
+  background-image: url(../images/icon\ send\ \(1\).svg);
   width: 24px;
   height: 24px;
 }
